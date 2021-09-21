@@ -2,4 +2,6 @@
 
 Essa é a primeira versão do README file
 
-Lembre do comando: git commit
+Lembrei do comando: git commit
+Lembrei do comando: git status
+
