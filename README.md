@@ -24,6 +24,7 @@ Olá, Este é um repositório com os comandos básicos para a utilização do Gi
    - "git clone URL": Clona o repositório remoto para um repositório local (precisar ser
    em uma nova pasta);
    - "git pull": Baixa as alterações do repositório remoto para o local;
+   - "git pull origin nome-da-branch-online": Baixa as alterações da branch remota para o branch local;
    - "git push -u origin nome-da-branch-que-fez-a-commit": Manda as alterações 
    para o repositório remoto;
    - "git merge 'nome-branch'": Trazer as alterações da 'nome-branch' para a branch atual;
