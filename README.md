@@ -8,9 +8,10 @@ Olá, Este é um repositório com os comandos básicos para a utilização do Gi
    - "git config user.email "email"": Configuração local;
    - "git init": Inicializar um repositório local;
    - "git checkout -b nome-branch: Criar uma nova branch com nome 'nome-branch';
+   - "git branch": Visualizar todas as branchs;
    - "git branch -m 'novo-nome'": Alterar nome da branch;
 
-2 - Comandos de alterações de arquivos no local:
+2 - Comandos de status e alterações de arquivos no local:
    - "git status": Rastrear alterações no repositório;
    - "git add .": Adicionar todas as alterações na staging;
    - "git commit -m "nome-da-commit" ": Salvar alterações;
@@ -27,6 +28,7 @@ Olá, Este é um repositório com os comandos básicos para a utilização do Gi
    - "git pull origin nome-da-branch-online": Baixa as alterações da branch remota para o branch local;
    - "git push -u origin nome-da-branch-que-fez-a-commit": Manda as alterações 
    para o repositório remoto;
-   - "git merge 'nome-branch'": Trazer as alterações da 'nome-branch' para a branch atual;
+   - "git merge nome-branch": Trazer as alterações da 'nome-branch' para a branch atual;
+   
    
    
