@@ -29,6 +29,9 @@ Olá, Este é um repositório com os comandos básicos para a utilização do Gi
    - "git push -u origin nome-da-branch-que-fez-a-commit": Manda as alterações 
    para o repositório remoto;
    - "git merge nome-branch": Trazer as alterações da 'nome-branch' para a branch atual;
-   
+   - "git tag -a vm.n -m "nome da tag": criar uma tag neste ponto, onde m e n são números naturais,
+   indicando a versão da tag;
+   - "git tag": Mostrar as tags existentes;
+   - "git push origin --tags": Empurrar as tags criadas para o repositório online.
    
    
